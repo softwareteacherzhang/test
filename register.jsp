@@ -2,7 +2,7 @@
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-<head>
+<head >  update
 <meta charset="UTF-8">
 <link  href="css/style.css"  rel="stylesheet" />
 <title>注册</title>
